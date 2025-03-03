@@ -51,7 +51,7 @@ The Age & Gender Detection application is a deep learning-based tool that predic
 </ul>
 
 <h2>📸 Screenshots</h2>
-<p> <img width="1440" alt="Screenshot Homepage" src="https://private-user-images.githubusercontent.com/147264239/418323505-af2d0723-5112-4c6d-aefa-d73f4e740dc3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4OTM0ODcsIm5iZiI6MTc0MDg5MzE4NywicGF0aCI6Ii8xNDcyNjQyMzkvNDE4MzIzNTA1LWFmMmQwNzIzLTUxMTItNGM2ZC1hZWZhLWQ3M2Y0ZTc0MGRjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMlQwNTI2MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NTViOGNiMWI2OWU4YTM5OWNjN2JiZDgzYjVlMWIyNGUyMTE2ZmMzZDdiMmVjYWE5Yjg0MjgyNWFjZGE0YTg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MxDMVr8lSKea5ctdlEugrx8oBlv1mrdOrWieHbbFzwc"></p>
+<p> <img width="1440" alt="Screenshot Homepage" src="Screenshot%202024-06-17%20182036.png"></p>
 
 <h2>🤝 Contributors</h2>
 <ul>
